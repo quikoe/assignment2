@@ -1,0 +1,46 @@
+.jumbotron{
+    background-color: #183d10;
+    background-image: url(beach.jpg);
+}
+.btn {
+    border-radius: 0;
+    align-items: flex-end;
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    color: aqua;
+}
+
+.col-sm-4:nth-child(even){
+    background-color: rgb(191, 191, 194);
+    border-style: solid;   
+}
+.col-sm-4:nth-child(odd){
+    background-color: rgb(69, 69, 223);
+    border-style: solid;   
+}
+.col-sm-12:nth-child(even){
+    background-color: rgb(3, 3, 14);
+    border-style: solid; 
+       
+}
+/* .card{
+    background-image: url("Capture.JPG")
+
+} */
+.row{
+    margin: auto;
+}
+.container{
+    border-block-color: black; 
+       
+}
+.container1{
+    border-block-color: black; 
+       
+}
+h3{
+    text-decoration-color: white;
+}

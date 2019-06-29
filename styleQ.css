@@ -1,0 +1,29 @@
+h1{
+    font-style: normal;
+    text-align: center;
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.col-sm-4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-fluid{
+    max-width: 300px;
+    height: 250px;
+}
+
+.jumbotron{
+    background-color: #183d10;
+    background-image: url(beach.jpg);
+}
+
+.container1{
+    border-style: blue;  
+    background-color: rgb(218, 206, 206);
+    width: auto;
+    height: auto;  
+}
+
